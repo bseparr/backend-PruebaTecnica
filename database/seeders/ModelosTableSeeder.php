@@ -35,7 +35,7 @@ class ModelosTableSeeder extends Seeder
             array (
                 'id' => 3,
                 'nombre' => 'Redmi Note',
-                'id_marca' => 2,
+                'id_marca' => 3,
             ),
             3 => 
             array (
@@ -66,6 +66,24 @@ class ModelosTableSeeder extends Seeder
                 'id' => 8,
                 'nombre' => 'Wii',
                 'id_marca' => 4,
+            ),
+            8 => 
+            array (
+                'id' => 9,
+                'nombre' => 'iPhone',
+                'id_marca' => 2,
+            ),
+            9 => 
+            array (
+                'id' => 10,
+                'nombre' => 'iPad',
+                'id_marca' => 2,
+            ),
+            10 => 
+            array (
+                'id' => 11,
+                'nombre' => 'Mac',
+                'id_marca' => 2,
             ),
         ));
         

@@ -27,7 +27,7 @@ class MarcasTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 2,
-                'nombre' => 'LG',
+                'nombre' => 'Apple',
             ),
             2 => 
             array (

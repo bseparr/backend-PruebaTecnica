@@ -24,6 +24,21 @@ class BodegasTableSeeder extends Seeder
                 'id' => 1,
                 'nombre' => 'Ripley',
             ),
+            1 => 
+            array (
+                'id' => 2,
+                'nombre' => 'Paris',
+            ),
+            2 => 
+            array (
+                'id' => 3,
+                'nombre' => 'Falabella',
+            ),
+            3 => 
+            array (
+                'id' => 4,
+                'nombre' => 'PC Factory',
+            ),
         ));
         
         
